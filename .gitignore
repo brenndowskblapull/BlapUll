@@ -1,0 +1,12 @@
+# Minecraft-Weltdaten, Spielstände und Sicherungen bleiben lokal.
+/source/schwebeknecht/*
+!/source/schwebeknecht/schwebeknecht.gif
+!/source/schwebeknecht/datapacks/
+/source/schwebeknecht/datapacks/*
+!/source/schwebeknecht/datapacks/glas-datapack.zip
+
+# Lokale und automatisch erzeugte Dateien
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
